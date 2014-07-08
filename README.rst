@@ -6,7 +6,7 @@ for collaborating with Funtoo Linux. To start using the overlay, perform the
 following steps:
 
 1. Review COPYRIGHT.txt and LICENSE.txt. What is provide are reasonable defaults,
-   using the GNU Public License Version 2. If you are using existing ebuilds from
+   using the GNU General Public License Version 2. If you are using existing ebuilds from
    Gentoo Linux and/or Funtoo LInux, then the copyright information is probably
    accurate. Otherwise, you will want to change the copyright notice to read:
 
