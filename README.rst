@@ -17,10 +17,13 @@ following steps:
 
 2. Modify ``profiles/repo_name`` and enter a single-word name for your repository.
 
-3. Modify this README.rst file to accurately reflect how to contribute. You should
+3. Edit ``metadata/layout.conf`` and change the word "skeleton" in the repo-name line
+   to the name of the repository.
+
+4. Modify this README.rst file to accurately reflect how to contribute. You should
    be able to remove this top part and simply use what follows it as a template.
 
-4. Add ebuilds :)
+5. Add ebuilds :)
 
 
 =================================
